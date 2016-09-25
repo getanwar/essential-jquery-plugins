@@ -2,7 +2,7 @@
 
 Here I'll be maintaining a list of very useful and handy jQuery plugins which every front-end web developer must need in their day to day work. If your work relates somehow to front-end web development, this collection also may help you. The whole list was curated by me, but if you feel that there should have a few more plugins in the list which I might have missed, you can fork this GitHub repo and send me a pull request :)
 
-#### Carousel & Sliders
+### Carousel & Sliders
 
 [OwlCarousel2][1]: Touch enabled jQuery plugin that lets you create a beautiful, responsive carousel slider.
 
@@ -12,7 +12,7 @@ Here I'll be maintaining a list of very useful and handy jQuery plugins which ev
 
 [Swiper][4]: It's a modern mobile touch jQuery slider plugin
 
-#### Lightbox
+### Lightbox
 
 [Lightbox][5]: A perfect lightbox plugin for your image gallery.
 
@@ -95,6 +95,11 @@ Here I'll be maintaining a list of very useful and handy jQuery plugins which ev
 ### Misc
 
 [ajaxChimp][34]: AjaxChimp is a jQuery plugin that lets you ajaxify your mailchimp form.
+
+
+##Credits
+
+All the plugins I have mentioned above, I use all of them in my day to day work.
 
  [1]: https://github.com/OwlCarousel2/OwlCarousel2
  [2]: http://kenwheeler.github.io/slick/
