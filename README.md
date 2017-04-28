@@ -1,4 +1,4 @@
-#A List of Handpicked jQuery Plugins
+# A List of Handpicked jQuery Plugins
 
 Here I'll be maintaining a list of very useful and handy jQuery plugins which every front-end web developer must need in their day to day work. If your work relates somehow to front-end web development, this collection also may help you. The whole list was curated by me, but if you feel that there should have a few more plugins in the list which I might have missed, you can fork this GitHub repo and send me a pull request :)
 
